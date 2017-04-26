@@ -1,4 +1,4 @@
-# Continous Deployment with Docker (Proof of concept)
+# Continous Deployment with Docker (Proof of concept) [![Build Status](https://travis-ci.org/cbuschka/cdwdpoc.svg?branch=master)](https://travis-ci.org/cbuschka/cdwdpoc) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cbuschka/cdwdpoc/master/license)
 
 This is a proof of concept to show how an app can be redeployed without service being interrupted. 
 
